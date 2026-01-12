@@ -1,2 +1,2 @@
 # Portfolio-Project---Decision-Support-System-Pricing-and-Availability-Analysis-
-Automated scheduling system with a central database, real-time calendar, and dynamic event pages. Features status automation, conflict-free sorting, and template-driven event generation.
+This project demonstrates an automated decision support system that transforms raw scheduling data into structured calendar views to support pricing and capacity decisions across departments.
