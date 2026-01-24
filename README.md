@@ -4,7 +4,7 @@
 # Event Capacity Planning: Decision Support Analysis
 
 ## Summary
-Built a Decision Support System (DSS) to automate scheduling and oversight for $500K in annual activity. Replaced manual sheet-syncing with an automated database architecture.
+Automated calendar that consolidates event scheduling and real-time capacity data to give sales and operations teams a clear, day-by-day view for planning and decision-making.
 
 ## Key Highlights
 **Problem:**  
